@@ -1,0 +1,417 @@
+{
+  "users": [
+    {
+      "id": "9c99b7d3-e542-4b23-86dc-111fbe466e59",
+      "email": "shopper@example.com",
+      "name": "shopper",
+      "avatar_url": "",
+      "created_at": "2026-09-29T13:36:34.361Z",
+      "updated_at": "2026-09-29T13:36:34.361Z"
+    },
+    {
+      "id": "4105d7ba-f4a2-496b-a05a-fe7ed93424ea",
+      "email": "testuser@gmail.com",
+      "name": "testuser",
+      "avatar_url": "",
+      "created_at": "2026-09-29T13:37:36.490Z",
+      "updated_at": "2026-09-29T13:37:36.490Z"
+    },
+    {
+      "id": "fa36b2eb-0e2d-4fa0-b75a-87ad4ed9e44a",
+      "email": "freshuser@example.com",
+      "name": "freshuser",
+      "avatar_url": "",
+      "created_at": "2026-09-29T13:38:03.827Z",
+      "updated_at": "2026-09-29T13:38:03.827Z"
+    },
+    {
+      "id": "d3c58d12-679e-4b88-9fce-078b0121fb3b",
+      "email": "230301120462@centurionuniv.edu.in",
+      "name": "SACHIDANANDA PANIGRAHI",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-cmzHth8k0fE0sDfS7vcGSgJT9z9RVDrb3GlbdKqiR92iCQ=s96-c",
+      "created_at": "2026-09-29T14:08:21.861Z",
+      "updated_at": "2026-09-29T14:08:21.861Z"
+    },
+    {
+      "id": "bbbb2d79-85b7-4549-b366-15947aad29db",
+      "email": "hqkanhasonu@gmail.com",
+      "name": "hqkanhasonu",
+      "avatar_url": "",
+      "created_at": "2026-09-29T14:23:16.264Z",
+      "updated_at": "2026-09-29T14:23:16.264Z"
+    },
+    {
+      "id": "e15ae1b6-a350-4ce1-84f2-8921caa0755b",
+      "email": "insaneforceesp@gmail.com",
+      "name": "insaneforceesp",
+      "avatar_url": "",
+      "created_at": "2026-09-29T14:36:57.526Z",
+      "updated_at": "2026-09-29T14:36:57.526Z"
+    },
+    {
+      "id": "d50c5bd3-9326-44c5-af99-a9975d7f811c",
+      "email": "authtest@example.com",
+      "name": "authtest",
+      "avatar_url": "",
+      "created_at": "2026-09-29T14:52:03.460Z",
+      "updated_at": "2026-09-29T14:52:03.460Z"
+    },
+    {
+      "id": "55f56366-bcf2-4f58-ac28-43287098f3ec",
+      "email": "verifytest_1790693889347@example.com",
+      "name": "verifytest_1790693889347",
+      "avatar_url": "",
+      "created_at": "2026-09-29T14:58:14.057Z",
+      "updated_at": "2026-09-29T14:58:14.057Z"
+    },
+    {
+      "id": "482e0a2a-fb20-4728-bcd8-0a20d922379c",
+      "email": "dealdropcustom@gmail.com",
+      "name": "Deal Drop",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLXlT7nISHxXug2NX0pujKTyzCSx0wwcmnEAXB-7rM018Pt-A=s96-c",
+      "created_at": "2026-09-29T15:31:30.376Z",
+      "updated_at": "2026-09-29T15:31:30.376Z"
+    },
+    {
+      "id": "ba8b0f39-062f-47d3-b31a-9e1af57c5f28",
+      "email": "premjitkhuntia17@gmail.com",
+      "name": "premjitkhuntia17",
+      "avatar_url": "",
+      "created_at": "2026-09-29T15:43:22.646Z",
+      "updated_at": "2026-09-29T15:43:22.646Z"
+    },
+    {
+      "id": "353c05e3-f6ca-4cbe-b461-20e2410c2aec",
+      "email": "deploytest@example.com",
+      "name": "deploytest",
+      "avatar_url": "",
+      "created_at": "2026-09-29T15:46:51.423Z",
+      "updated_at": "2026-09-29T15:46:51.423Z"
+    }
+  ],
+  "otp_codes": [
+    {
+      "id": "e6037cd8-fea8-4f8d-8691-90a33e1d0db3",
+      "email": "shopper@example.com",
+      "code": "967154",
+      "expires_at": "2026-09-29T13:46:20.276Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T13:36:20.276Z"
+    },
+    {
+      "id": "c4eef8e3-8295-4ed8-9e90-a5e59633e1ec",
+      "email": "testuser@gmail.com",
+      "code": "169035",
+      "expires_at": "2026-09-29T13:47:36.196Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T13:37:36.196Z"
+    },
+    {
+      "id": "546eaefa-7686-4dc8-89cb-c4d6795c4f26",
+      "email": "freshuser@example.com",
+      "code": "294581",
+      "expires_at": "2026-09-29T13:48:03.567Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T13:38:03.567Z"
+    },
+    {
+      "id": "33b3bba6-1c84-4fba-a63e-6b5038a83abb",
+      "email": "hqkanhasonu@gmail.com",
+      "code": "364643",
+      "expires_at": "2026-09-29T14:32:55.585Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:22:55.585Z"
+    },
+    {
+      "id": "913f65c4-c41a-4bdb-9d82-67bd1d033578",
+      "email": "230301120462@centurionuniv.edu.in",
+      "code": "694347",
+      "expires_at": "2026-09-29T14:35:50.513Z",
+      "verified": false,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:25:50.513Z"
+    },
+    {
+      "id": "bbd3854d-7ac6-4c21-910e-7d81d1e858a3",
+      "email": "insaneforceesp@gmail.com",
+      "code": "654207",
+      "expires_at": "2026-09-29T14:46:39.140Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:36:39.140Z"
+    },
+    {
+      "id": "bb3a29dc-9034-4e7e-8b58-abb12b9d16ed",
+      "email": "insaneforceesp@gmail.com",
+      "code": "263515",
+      "expires_at": "2026-09-29T14:47:09.474Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:37:09.474Z"
+    },
+    {
+      "id": "94b4d57b-e513-44fd-a309-131d1dbec18a",
+      "email": "authtest@example.com",
+      "code": "213138",
+      "expires_at": "2026-09-29T15:02:00.546Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:52:00.546Z"
+    },
+    {
+      "id": "02e3823d-18fc-458f-9744-36a3947046a0",
+      "email": "insaneforceesp@gmail.com",
+      "code": "755491",
+      "expires_at": "2026-09-29T15:06:19.736Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:56:19.736Z"
+    },
+    {
+      "id": "185c29eb-5225-4868-a366-2044479ad700",
+      "email": "verifytest_1790693889347@example.com",
+      "code": "524913",
+      "expires_at": "2026-09-29T15:08:09.449Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T14:58:09.449Z"
+    },
+    {
+      "id": "f6ac4730-8c0d-420f-8bb4-a17265527c35",
+      "email": "insaneforceesp@gmail.com",
+      "code": "831877",
+      "expires_at": "2026-09-29T15:50:41.928Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T15:40:41.928Z"
+    },
+    {
+      "id": "d0790c0c-1aab-4d4d-b8e6-6da8f59e652d",
+      "email": "premjitkhuntia17@gmail.com",
+      "code": "525789",
+      "expires_at": "2026-09-29T15:51:21.869Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T15:41:21.869Z"
+    },
+    {
+      "id": "df3ebf90-392b-41bf-8f61-d5b545f33756",
+      "email": "deploytest@example.com",
+      "code": "295808",
+      "expires_at": "2026-09-29T15:56:47.221Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-09-29T15:46:47.221Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
+      "user_id": "fa36b2eb-0e2d-4fa0-b75a-87ad4ed9e44a",
+      "url": "https://www.amazon.com/dp/B08N5WRWNW",
+      "name": "Apple MacBook Air 13-inch (M1 Chip, 8GB RAM, 256GB SSD) - Space Gray",
+      "current_price": 799.99,
+      "currency": "USD",
+      "image_url": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_SL1500_.jpg",
+      "created_at": "2026-09-29T13:38:23.224Z",
+      "updated_at": "2026-09-29T13:38:23.239Z"
+    },
+    {
+      "id": "45ea35dd-f183-467c-8704-8932774372b2",
+      "user_id": "fa36b2eb-0e2d-4fa0-b75a-87ad4ed9e44a",
+      "url": "https://www.amazon.com/dp/B0B3C57X27",
+      "name": "Apple 2022 MacBook Air M2 Chip (13.6-inch, 8GB RAM, 256GB SSD Storage) - Midnight",
+      "current_price": 849,
+      "currency": "USD",
+      "image_url": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_SL1500_.jpg",
+      "created_at": "2026-09-15T13:42:18.950Z",
+      "updated_at": "2026-09-29T13:42:18.951Z"
+    },
+    {
+      "id": "d7f4da99-d739-4581-9735-d5ad38c95890",
+      "user_id": "fa36b2eb-0e2d-4fa0-b75a-87ad4ed9e44a",
+      "url": "https://www.amazon.com/dp/B09XS7JWHH",
+      "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones - Black",
+      "current_price": 328,
+      "currency": "USD",
+      "image_url": "https://m.media-amazon.com/images/I/61+elLbd3RL._AC_SL1500_.jpg",
+      "created_at": "2026-09-19T13:42:18.950Z",
+      "updated_at": "2026-09-29T13:42:18.951Z"
+    },
+    {
+      "id": "7c1808e5-52c0-4fc4-9f46-58787e472c91",
+      "user_id": "ba8b0f39-062f-47d3-b31a-9e1af57c5f28",
+      "url": "https://www.amazon.com/dp/B0B3C57X27",
+      "name": "Apple 2022 MacBook Air M2 Chip (13.6-inch, 8GB RAM, 256GB SSD Storage) - Midnight",
+      "current_price": 849,
+      "currency": "USD",
+      "image_url": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_SL1500_.jpg",
+      "created_at": "2026-09-15T15:43:30.087Z",
+      "updated_at": "2026-09-29T15:43:30.087Z"
+    },
+    {
+      "id": "0cedc218-f32b-4518-a706-17cb2c1ca1ec",
+      "user_id": "ba8b0f39-062f-47d3-b31a-9e1af57c5f28",
+      "url": "https://www.amazon.com/dp/B09XS7JWHH",
+      "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones - Black",
+      "current_price": 328,
+      "currency": "USD",
+      "image_url": "https://m.media-amazon.com/images/I/61+elLbd3RL._AC_SL1500_.jpg",
+      "created_at": "2026-09-19T15:43:30.087Z",
+      "updated_at": "2026-09-29T15:43:30.088Z"
+    }
+  ],
+  "price_history": [
+    {
+      "id": "b2e2a743-1c9d-4484-beee-b86f0a80bb3b",
+      "product_id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
+      "price": 999,
+      "currency": "USD",
+      "checked_at": "2026-09-19T13:38:23.228Z"
+    },
+    {
+      "id": "ef6123e2-e7f8-4b84-bde9-05f97bd073b2",
+      "product_id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
+      "price": 1049,
+      "currency": "USD",
+      "checked_at": "2026-09-22T13:38:23.230Z"
+    },
+    {
+      "id": "0af23ac5-7eb9-4da1-bb92-a2e464e57a28",
+      "product_id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
+      "price": 949,
+      "currency": "USD",
+      "checked_at": "2026-09-25T13:38:23.233Z"
+    },
+    {
+      "id": "a738e35b-d49b-4f3e-b80c-b6abc0f4eef0",
+      "product_id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
+      "price": 969,
+      "currency": "USD",
+      "checked_at": "2026-09-28T13:38:23.236Z"
+    },
+    {
+      "id": "bd254bd2-18d7-4b1c-ad8d-5c8f0075e5af",
+      "product_id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
+      "price": 799.99,
+      "currency": "USD",
+      "checked_at": "2026-09-29T13:38:23.242Z"
+    },
+    {
+      "id": "688de74a-b5f7-4226-ac4f-828c93c3c6c8",
+      "product_id": "45ea35dd-f183-467c-8704-8932774372b2",
+      "price": 999,
+      "currency": "USD",
+      "checked_at": "2026-09-15T13:42:18.950Z"
+    },
+    {
+      "id": "41e0b616-b472-47a8-8a3e-36a472908ca0",
+      "product_id": "45ea35dd-f183-467c-8704-8932774372b2",
+      "price": 1049,
+      "currency": "USD",
+      "checked_at": "2026-09-20T13:42:18.950Z"
+    },
+    {
+      "id": "56b1860f-1041-4fdc-828e-20f91729f579",
+      "product_id": "45ea35dd-f183-467c-8704-8932774372b2",
+      "price": 949,
+      "currency": "USD",
+      "checked_at": "2026-09-24T13:42:18.950Z"
+    },
+    {
+      "id": "8d5142ea-4425-42b5-95f2-6ef5d2296646",
+      "product_id": "45ea35dd-f183-467c-8704-8932774372b2",
+      "price": 849,
+      "currency": "USD",
+      "checked_at": "2026-09-29T13:42:18.951Z"
+    },
+    {
+      "id": "f838cc8c-e998-448a-b328-f18daed45c66",
+      "product_id": "d7f4da99-d739-4581-9735-d5ad38c95890",
+      "price": 399.99,
+      "currency": "USD",
+      "checked_at": "2026-09-19T13:42:18.950Z"
+    },
+    {
+      "id": "bf4c47e9-ba80-4ef5-a95f-cbcd9445a80c",
+      "product_id": "d7f4da99-d739-4581-9735-d5ad38c95890",
+      "price": 349.99,
+      "currency": "USD",
+      "checked_at": "2026-09-22T13:42:18.950Z"
+    },
+    {
+      "id": "525af260-ee21-4810-8f9c-0b9dbf39a670",
+      "product_id": "d7f4da99-d739-4581-9735-d5ad38c95890",
+      "price": 379.99,
+      "currency": "USD",
+      "checked_at": "2026-09-26T13:42:18.950Z"
+    },
+    {
+      "id": "9bbdc9d9-d402-4bb5-a126-cba9c77108db",
+      "product_id": "d7f4da99-d739-4581-9735-d5ad38c95890",
+      "price": 328,
+      "currency": "USD",
+      "checked_at": "2026-09-29T13:42:18.951Z"
+    },
+    {
+      "id": "6191866d-0184-4536-8f05-44fbd40adbc6",
+      "product_id": "7c1808e5-52c0-4fc4-9f46-58787e472c91",
+      "price": 999,
+      "currency": "USD",
+      "checked_at": "2026-09-15T15:43:30.087Z"
+    },
+    {
+      "id": "d6596da5-6925-4b56-9ea4-24034f6da4e9",
+      "product_id": "7c1808e5-52c0-4fc4-9f46-58787e472c91",
+      "price": 1049,
+      "currency": "USD",
+      "checked_at": "2026-09-20T15:43:30.087Z"
+    },
+    {
+      "id": "17f684a3-7d01-4045-8d0f-ba30a507cbc0",
+      "product_id": "7c1808e5-52c0-4fc4-9f46-58787e472c91",
+      "price": 949,
+      "currency": "USD",
+      "checked_at": "2026-09-24T15:43:30.087Z"
+    },
+    {
+      "id": "4c319d21-eeb1-4fb8-abd0-13394e5945e0",
+      "product_id": "7c1808e5-52c0-4fc4-9f46-58787e472c91",
+      "price": 849,
+      "currency": "USD",
+      "checked_at": "2026-09-29T15:43:30.088Z"
+    },
+    {
+      "id": "4daefa70-9669-47df-aecf-50701c291cf0",
+      "product_id": "0cedc218-f32b-4518-a706-17cb2c1ca1ec",
+      "price": 399.99,
+      "currency": "USD",
+      "checked_at": "2026-09-19T15:43:30.087Z"
+    },
+    {
+      "id": "67990aa0-29dd-49f5-91ba-e16bc86fd897",
+      "product_id": "0cedc218-f32b-4518-a706-17cb2c1ca1ec",
+      "price": 349.99,
+      "currency": "USD",
+      "checked_at": "2026-09-22T15:43:30.087Z"
+    },
+    {
+      "id": "5d407251-f964-49a0-bfc5-7a0ea7f1f3cf",
+      "product_id": "0cedc218-f32b-4518-a706-17cb2c1ca1ec",
+      "price": 379.99,
+      "currency": "USD",
+      "checked_at": "2026-09-26T15:43:30.087Z"
+    },
+    {
+      "id": "438b1b4a-5f50-4903-a2d2-a0ac1e2c817d",
+      "product_id": "0cedc218-f32b-4518-a706-17cb2c1ca1ec",
+      "price": 328,
+      "currency": "USD",
+      "checked_at": "2026-09-29T15:43:30.088Z"
+    }
+  ]
+}
