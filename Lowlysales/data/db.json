@@ -253,6 +253,17 @@
   ],
   "products": [
     {
+      "id": "bd6f6df9-f0c4-40e7-b1da-563bcfb3484f",
+      "user_id": "55fc7a03-1ce8-4daa-893e-ded822402eaf",
+      "url": "https://www.amazon.in/dp/B0GNMKL3VP?ref=cm_sw_r_cp_ud_dp_XY5KANTJ6498CSZCACE7&ref_=cm_sw_r_cp_ud_dp_XY5KANTJ6498CSZCACE7&social_share=cm_sw_r_cp_ud_dp_XY5KANTJ6498CSZCACE7",
+      "name": "Add to your order",
+      "current_price": 69985,
+      "currency": "INR",
+      "image_url": "https://m.media-amazon.com/images/I/41Xyt3BIPpL._SL1000_.jpg",
+      "created_at": "2026-11-10T08:51:22.075Z",
+      "updated_at": "2026-11-10T08:51:22.075Z"
+    },
+    {
       "id": "8ce05caa-5b07-430b-8b2c-312413dcf292",
       "user_id": "f34554d0-f318-4f3b-9d11-b4cae63fb241",
       "url": "https://www.flipkart.com/nothing-phone-4a-white-256-gb/p/itm4d8bff10483ce?pid=MOBHZAWYHWYKGGWD",
@@ -650,6 +661,13 @@
       "price": 721.65,
       "currency": "USD",
       "checked_at": "2026-11-10T07:45:29.000Z"
+    },
+    {
+      "id": "3b4d235d-165e-46ed-921c-5dbf361073ae",
+      "product_id": "bd6f6df9-f0c4-40e7-b1da-563bcfb3484f",
+      "price": 69985,
+      "currency": "INR",
+      "checked_at": "2026-11-10T08:51:22.084Z"
     }
   ]
 }
