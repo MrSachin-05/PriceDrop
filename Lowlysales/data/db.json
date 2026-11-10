@@ -30,7 +30,7 @@
       "name": "SACHIDANANDA PANIGRAHI",
       "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocL-cmzHth8k0fE0sDfS7vcGSgJT9z9RVDrb3GlbdKqiR92iCQ=s96-c",
       "created_at": "2026-09-29T14:08:21.861Z",
-      "updated_at": "2026-10-03T14:58:18.815Z"
+      "updated_at": "2026-11-10T07:06:58.025Z"
     },
     {
       "id": "bbbb2d79-85b7-4549-b366-15947aad29db",
@@ -87,6 +87,14 @@
       "avatar_url": "",
       "created_at": "2026-09-29T15:46:51.423Z",
       "updated_at": "2026-09-29T15:46:51.423Z"
+    },
+    {
+      "id": "f34554d0-f318-4f3b-9d11-b4cae63fb241",
+      "email": "sachidanandapanigrahi96@gmail.com",
+      "name": "sachidanandapanigrahi96",
+      "avatar_url": "",
+      "created_at": "2026-11-10T07:07:38.612Z",
+      "updated_at": "2026-11-10T07:07:38.612Z"
     }
   ],
   "otp_codes": [
@@ -206,9 +214,29 @@
       "verified": true,
       "attempts": 0,
       "created_at": "2026-10-03T14:58:46.022Z"
+    },
+    {
+      "id": "ce960b79-2df9-4e87-8ec8-2e61b40a9e52",
+      "email": "sachidanandapanigrahi96@gmail.com",
+      "code": "213203",
+      "expires_at": "2026-11-10T07:17:15.990Z",
+      "verified": true,
+      "attempts": 0,
+      "created_at": "2026-11-10T07:07:15.990Z"
     }
   ],
   "products": [
+    {
+      "id": "8ce05caa-5b07-430b-8b2c-312413dcf292",
+      "user_id": "f34554d0-f318-4f3b-9d11-b4cae63fb241",
+      "url": "https://www.flipkart.com/nothing-phone-4a-white-256-gb/p/itm4d8bff10483ce?pid=MOBHZAWYHWYKGGWD",
+      "name": "Nothing Phone (4a) (White, 256 GB) (12 GB RAM)",
+      "current_price": 43349.15,
+      "currency": "INR",
+      "image_url": "https://rukminim2.flixcart.com/image/300/300/xif0q/mobile/b/k/z/-original-imahzaxejjzhkxy8.jpeg",
+      "created_at": "2026-11-10T07:09:09.586Z",
+      "updated_at": "2026-11-10T07:09:34.304Z"
+    },
     {
       "id": "745afa1b-3471-4068-a83e-5879e5e92c8a",
       "user_id": "fa36b2eb-0e2d-4fa0-b75a-87ad4ed9e44a",
@@ -263,6 +291,28 @@
       "image_url": "https://m.media-amazon.com/images/I/61+elLbd3RL._AC_SL1500_.jpg",
       "created_at": "2026-09-19T15:43:30.087Z",
       "updated_at": "2026-09-29T15:43:30.088Z"
+    },
+    {
+      "id": "7dd70eeb-6437-46b2-b3a0-c3e19773b44b",
+      "user_id": "f34554d0-f318-4f3b-9d11-b4cae63fb241",
+      "url": "https://www.amazon.com/dp/B0B3C57X27",
+      "name": "Apple 2022 MacBook Air M2 Chip (13.6-inch, 8GB RAM, 256GB SSD Storage) - Midnight",
+      "current_price": 849,
+      "currency": "USD",
+      "image_url": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_SL1500_.jpg",
+      "created_at": "2026-10-27T07:07:59.714Z",
+      "updated_at": "2026-11-10T07:07:59.715Z"
+    },
+    {
+      "id": "49037c7e-4c24-4421-9b56-47dc2e19bcf6",
+      "user_id": "f34554d0-f318-4f3b-9d11-b4cae63fb241",
+      "url": "https://www.amazon.com/dp/B09XS7JWHH",
+      "name": "Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones, Black",
+      "current_price": 19567.2,
+      "currency": "INR",
+      "image_url": "https://m.media-amazon.com/images/I/61O3iMlnJIL._AC_SL1500_.jpg",
+      "created_at": "2026-10-31T07:07:59.714Z",
+      "updated_at": "2026-11-10T07:08:59.407Z"
     }
   ],
   "price_history": [
@@ -412,6 +462,83 @@
       "price": 328,
       "currency": "USD",
       "checked_at": "2026-09-29T15:43:30.088Z"
+    },
+    {
+      "id": "6a173f1c-a6ca-4813-a848-2b90bc1c90c0",
+      "product_id": "7dd70eeb-6437-46b2-b3a0-c3e19773b44b",
+      "price": 999,
+      "currency": "USD",
+      "checked_at": "2026-10-27T07:07:59.714Z"
+    },
+    {
+      "id": "d78d6ffa-ae09-4e89-89bb-fef0983e9c9e",
+      "product_id": "7dd70eeb-6437-46b2-b3a0-c3e19773b44b",
+      "price": 1049,
+      "currency": "USD",
+      "checked_at": "2026-11-01T07:07:59.714Z"
+    },
+    {
+      "id": "2d48a49f-3f34-47c4-b3b2-8b54b059b788",
+      "product_id": "7dd70eeb-6437-46b2-b3a0-c3e19773b44b",
+      "price": 949,
+      "currency": "USD",
+      "checked_at": "2026-11-05T07:07:59.714Z"
+    },
+    {
+      "id": "c3620611-e81e-4242-bf4d-dd6bd4dc10bc",
+      "product_id": "7dd70eeb-6437-46b2-b3a0-c3e19773b44b",
+      "price": 849,
+      "currency": "USD",
+      "checked_at": "2026-11-10T07:07:59.715Z"
+    },
+    {
+      "id": "8a26d064-b554-44b4-82c2-ef4bfc4e1445",
+      "product_id": "49037c7e-4c24-4421-9b56-47dc2e19bcf6",
+      "price": 399.99,
+      "currency": "USD",
+      "checked_at": "2026-10-31T07:07:59.714Z"
+    },
+    {
+      "id": "d5f9d936-2f27-472e-92e8-ac95b1610bf4",
+      "product_id": "49037c7e-4c24-4421-9b56-47dc2e19bcf6",
+      "price": 349.99,
+      "currency": "USD",
+      "checked_at": "2026-11-03T07:07:59.714Z"
+    },
+    {
+      "id": "50493431-f16d-4d38-9961-909e6dfbcdb6",
+      "product_id": "49037c7e-4c24-4421-9b56-47dc2e19bcf6",
+      "price": 379.99,
+      "currency": "USD",
+      "checked_at": "2026-11-07T07:07:59.714Z"
+    },
+    {
+      "id": "c6880c6e-fc12-4679-89b1-75882e51517a",
+      "product_id": "49037c7e-4c24-4421-9b56-47dc2e19bcf6",
+      "price": 328,
+      "currency": "USD",
+      "checked_at": "2026-11-10T07:07:59.715Z"
+    },
+    {
+      "id": "36c92c47-3c9a-4424-8a1d-504c0b9ebe04",
+      "product_id": "49037c7e-4c24-4421-9b56-47dc2e19bcf6",
+      "price": 19567.2,
+      "currency": "INR",
+      "checked_at": "2026-11-10T07:08:59.417Z"
+    },
+    {
+      "id": "6285a8f6-5eaf-420f-91f6-d7bcd9726bec",
+      "product_id": "8ce05caa-5b07-430b-8b2c-312413dcf292",
+      "price": 50999,
+      "currency": "INR",
+      "checked_at": "2026-11-10T07:09:09.597Z"
+    },
+    {
+      "id": "3792a200-1e1f-4d6d-83b5-485f6a169f90",
+      "product_id": "8ce05caa-5b07-430b-8b2c-312413dcf292",
+      "price": 43349.15,
+      "currency": "INR",
+      "checked_at": "2026-11-10T07:09:34.314Z"
     }
   ]
 }
